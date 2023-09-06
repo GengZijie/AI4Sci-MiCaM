@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+title: MiCaM
+description: De Novo Molecular Generation via Connection-aware Motif Mining. ICLR 2023.
 github:
   is_project_page: true
